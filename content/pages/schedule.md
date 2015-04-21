@@ -94,27 +94,27 @@ Lecture 15: Simulated Annealing
 
 ** Tuesday Mar 31 **
 
-Lecture 16: Genetic Algorithms
+Lecture 16: Genetic Algorithms and Stochastic Gradient Decent
 
 ** Thursday Apr 2 **
 
-Lecture 17: Stochastic Gradient Decent
+Lecture 17: Time Series
 
 ### Week 11 Apr 6 - Apr 12
 
 ** Tuesday Apr 7 **
 
-Lecture 18: Time series, stationarity, ARIMA etc.
+Lecture 18: Time series and Hidden Markov Models
 
 ** Thursday Apr 9 **
 
-Lecture 19: HMM, Viterbi, Kalman filters, etc. 
+Lecture 19: Sequential Monte Carlo, particle filters
 
 ### Week 12 Apr 13 - Apr 19
 
 ** Tuesday Apr 14 **
 
-Lecture 20: Sequential Monte Carlo, particle filters
+Lecture 20: Expectation Maximization
 
 ** Thursday Apr 16 **
 
@@ -124,7 +124,7 @@ Lecture 21:Gaussian Processes
 
 ** Tuesday Apr 21 **
 
-Lecture 22: EM mixture models and Probabilisic Graphical Models
+Lecture 22: Probabilisic Graphical Models
 
 ** Thursday Apr 23 **
 
